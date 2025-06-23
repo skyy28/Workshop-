@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Profile Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="dashboard">
+    <div class="profile-card">
+      <img src="https://i.pravatar.cc/150?img=3" alt="Profile Picture" class="profile-pic" />
+      <h2 class="name">Fatimah Azzahra</h2>
+      <p class="title">Frontend Developer</p>
+      <p class="bio">Pecinta coding, desain, dan senja. Berpengalaman membangun UI/UX web yang user-friendly.</p>
+
+      <div class="stats">
+        <div class="stat">
+          <h3>150</h3>
+          <p>Posts</p>
+        </div>
+        <div class="stat">
+          <h3>3k</h3>
+          <p>Followers</p>
+        </div>
+        <div class="stat">
+          <h3>100</h3>
+          <p>Following</p>
+        </div>
+      </div>
+
+      <div class="contact">
+        <p>📧 fatimahazzhra@email.com</p>
+        <p>Jakarta, Indonesia</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
